@@ -4,7 +4,7 @@
 <h3 align="center">A Data Scientist who's not afraid to talk to lawyers 😜!</h3>
 <h5 aling="center">As a former litigation attorney, I sit at a unique intersection from where I can contribute not simply as a junior data scientist who can build models but also as a conduit between the data science team and other parts of the company. I am currently based in Switzerland and primarily looking for remote DS roles.</h5>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivan-mihailov&label=Profile%20views&color=0e75b6&style=flat" alt="ivan-mihailov" /> </p>
 
 - 🔭 I recently worked on a [Spotify Recommendation App](https://share.streamlit.io/galtman5/spotify-app/main/webapp.py)
 
